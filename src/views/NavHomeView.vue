@@ -54,14 +54,8 @@
 
       <!-- 左侧边栏底部信息 -->
       <div class="sidebar-footer">
-  <div class="github-link">
-    ⭐开心每一天⭐
-  </div>
-</div>
-    <!-- 
-      <div class="sidebar-footer">
         <a
-          href="https://github.com/frankk710/mao_nav"
+          href="https://www.baidu.com"
           target="_blank"
           rel="noopener noreferrer"
           class="github-link"
